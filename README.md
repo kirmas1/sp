@@ -1,5 +1,12 @@
 # sp
 
-execute by 
+This Ruby app, count page views and calculate unique page views.
 
-ruby app/parser.rb webserver.log
+**To run the program use**
+
+ruby parser.rb _path_to_input_
+
+for example:
+
+ruby parser.rb webserver.log
+
